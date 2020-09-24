@@ -1,0 +1,10 @@
+1) Install the gtts library ---- pip install gtts
+
+2) Install the pyaudio using pip ---- python -m pip install pyaudio
+
+Or download the pyaudio.exe file here ----- https://drive.google.com/drive/folders/1H_t4nyxEMudaLg0MUJJfdoggUG3TJJNC
+
+
+3) Past or write what you need to convert into audio in the fahim.txt file
+
+4) run the text_file_to_speech.py file using ---- python text_file_to_speech.py
